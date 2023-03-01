@@ -23,4 +23,6 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90a8ed&height=120&section=footer"/>
+
+![snake gif](https://github.com/AlissonOliveira-Jar/AlissonOliveira-Jar/blob/output/github-contribution-grid-snake.svg)
           
