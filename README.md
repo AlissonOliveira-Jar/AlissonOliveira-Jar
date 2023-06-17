@@ -5,8 +5,16 @@
 <div align="center"> 
 <a href = "mailto:alisson.dev.py@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alisson-oliveira-441556204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
+</div>
+
+<div align="center"> 
+ <header>
+  <p>
+   <strong> <br> Currently working with Spring Boot, Angular and Ionic. In parallel using C#/Unity in scientific initiation at the university.
+  </p>
+ </header>
+</div>
+
  ### Main skills:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
