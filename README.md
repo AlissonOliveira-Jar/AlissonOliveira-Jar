@@ -7,19 +7,25 @@
 <a href="https://www.linkedin.com/in/alisson-oliveira-441556204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-<div align="center"> 
- <header>
-  <p>
-   <strong> <br> Currently the focus of my work is on .Net and Django.
-  </p>
- </header>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AlissonOliveira-Jar&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AlissonOliveira-Jar&show_icons=true" />
+  </picture>
 </div>
 
- ### Main skills:
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)&nbsp;
 
+ ##
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,redis,postgres,vscode,cs,dotnet,java,py,django" />
+  </a>
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90a8ed&height=120&section=footer"/>
