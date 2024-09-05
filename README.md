@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90a8ed&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90a8ed&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alisson+Oliveira;I'm+20+years+old;I'm+from+Brazil;I'm+majoring+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90a8ed&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alisson+Oliveira;I'm+21+years+old;I'm+from+Brazil;I'm+majoring+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"> 
 <a href = "mailto:alisson.dev.py@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
