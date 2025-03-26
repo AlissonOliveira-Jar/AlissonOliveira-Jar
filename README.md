@@ -4,11 +4,11 @@
 
 <div align="center"> 
 <a href = "mailto:alisson.dev.py@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alisson-oliveira-441556204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/alisson-oliveira-py/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 ##
-<div align="center">
+<div align="center" style="display: flex; align-items: start; justify-content: center; gap: 20px;">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=AlissonOliveira-Jar&show_icons=true&theme=tokyonight"
@@ -20,13 +20,13 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=AlissonOliveira-Jar&show_icons=true" />
   </picture>
+  <img style="align-self: center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonOliveira-Jar&layout=compact&theme=tokyonight" />
 </div>
-
 
  ##
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,redis,postgres,vscode,cs,dotnet,java,py,django" />
+    <img src="https://skillicons.dev/icons?i=docker,postgres,vscode,java,spring,py,django,kotlin,androidstudio" />
   </a>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90a8ed&height=120&section=footer"/>
